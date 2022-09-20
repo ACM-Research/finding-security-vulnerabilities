@@ -8,7 +8,7 @@ Welcome to ACM Research!
 3) Basics for the project
     - Vulnerability research
     - CVE (Common Vulnerabilities and Exposures) 
-    - 
+    - Finding open-source software
 4) Schedule a meeting with our faculty advisor (Dr. Kevin Hamlen) next week
 
 ## Homework:
