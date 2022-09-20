@@ -7,7 +7,7 @@ Welcome to ACM Research!
 2) About the project
 3) Basics for the project
     - Vulnerability research
-    - CVE (Common Vulnerabilities and Exposures) 
+    - CVE (Common Vulnerabilities and Exposures) ([Example](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-38550))
     - Finding open-source software
 4) Schedule a meeting with our faculty advisor (Dr. Kevin Hamlen) next week
 
