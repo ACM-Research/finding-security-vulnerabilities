@@ -13,6 +13,7 @@ Welcome to ACM Research!
 
 ## Homework:
 - Look at 5 CVEs and try to understand the vulnerability, how it works, and the vulnerable code.
+- Fill this When2Meet form! [Link](https://www.when2meet.com/?16905990-yENfi)
 - Take a look at the resources below in case you did not get time during the build night.
 
 ## Resources:
