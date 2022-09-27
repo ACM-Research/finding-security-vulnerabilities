@@ -6,6 +6,7 @@
 1) Faculty meeting this/next week at ?
 2) Review some of the CVEs from the last assignment and explain what you understood
 3) Start searching for potential open-source code/software for the project (Github)
+4) EoBN -> diff member each week, name and your week, talk about your accomplishments, challenges and weekly goals
 
 ## Homework:
 - Continue looking for the software in Github
