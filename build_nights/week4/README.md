@@ -3,10 +3,10 @@
 
 ## Tasks:
 1) Open-source software search again! Make sure to use Dr. Hamlen's criteria and find ~10-15 examples
-2) Fill the When2Meet today during the build night our next meeting to finalize the project.
+2) Fill the [When2Meet](https://www.when2meet.com/?17226882-9YGnr) today during the build night our next meeting to finalize the project.
 
 ## Homework:
-- Meeting this week with Dr. Hamlen (?) - finalize the open source project that we'll use
+- Fill out [When2Meet](https://www.when2meet.com/?17226882-9YGnr); Meeting this week with Dr. Hamlen (?) - finalize the open source project that we'll use
 
 
 ## Resources:
