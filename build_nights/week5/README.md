@@ -7,7 +7,7 @@
 3) Prepare any questions that you want to ask
 
 ## Homework:
-- Meeting tomorrow/Wed. with Dr. Hamlen's PhD student (Shamila Wickramasuriya) at [?], share the open source files (if needed).
+- Meeting tomorrow/Wed. with Dr. Hamlen's PhD student (Shamila Wickramasuriya) at [?], share the open source files (if needed). https://www.when2meet.com/?17326854-mYkEx
 
 
 ## Resources:
