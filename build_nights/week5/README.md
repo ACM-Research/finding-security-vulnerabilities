@@ -3,12 +3,11 @@
 
 ## Tasks:
 1) CVE discussion -> Make sure you understand the basics of the CVE as you might see a similar vulnerability in the actual project.
-2) Finalize project ideas list for tomorrow's (?) meeting 
+2) Finalize project ideas list for **Wednesday's meeting at 12 PM**
 3) Prepare any questions that you want to ask
 
 ## Homework:
-- Meeting tomorrow/Wed. with Dr. Hamlen's PhD student (Shamila Wickramasuriya) at [?], share the open source files (if needed). https://www.when2meet.com/?17326854-mYkEx
-
+- Meeting with Dr. Hamlen's PhD student (Shamila Wickramasuriya) at **Wednesday (10/19/22) at 12 PM**, share the open source files (if needed). 
 
 ## Resources:
 - [How to find open source projects on GitHub](https://teamtreehouse.com/library/github-basics/how-to-find-an-open-source-project)
