@@ -12,7 +12,7 @@
 - Continue working with ERLKing, testing results, consult Dr. Wickramasuriya in the Teams chat for any specific ERLKing questions
 
 ## Resources:
-- N/A
+- [Poster](https://www.overleaf.com/project/636324109c00668ad6c9949e)
 
 ## Other helpful resources
 - UTD Cybersecurity Group (CSG) [Discord](https://discord.gg/25g6jPcAuA)
